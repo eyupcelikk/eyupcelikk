@@ -28,7 +28,6 @@
   <div align="center">
     <a target="_blank" href="https://twitter.com/eyupcelix7">        <img alt="iletisim | Twitter"   width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
     <a target="_blank" href="https://instagram.com/eyupcelix7">      <img alt="iletisim | Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg"></a>
-    <a target="_blank" href="https://youtube.com/profyazilim">        <img alt="iletisim | YouTube"   width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384012.svg"></a>
   </div>
 
   ---
