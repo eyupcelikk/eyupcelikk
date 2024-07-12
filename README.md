@@ -23,13 +23,6 @@
   ![Flutter](https://img.shields.io/badge/flutter-1b8bb4?style=for-the-badge&logo=flutter&logoColor=white)
   </details>
 
-  <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
-
-  <div align="center">
-    <a target="_blank" href="https://twitter.com/eyupcelix7">        <img alt="iletisim | Twitter"   width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>
-    <a target="_blank" href="https://instagram.com/eyupcelix7">      <img alt="iletisim | Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg"></a>
-  </div>
-
   ---
 
   <details align="center">
